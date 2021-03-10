@@ -17,3 +17,5 @@ wrapper.setMethods({ bindScroll: jest.fn() })
 
 
 传个小栗子请看 example.spec.js
+
+里面包含了基本的断言啥的基本够用，还有外链的函数怎么mock，就这样了有空再来唠叨唠叨
